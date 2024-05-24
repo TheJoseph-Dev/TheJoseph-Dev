@@ -1,32 +1,27 @@
-### :white_circle: Hello There!
-
-My name is José Vitor
-
-- On the way to a Bachelor's degree in Computer Science
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=31&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=64&lines=Hello+There!;i'm+Jos%C3%A9+Vitor;On+the+way+to+a+Bachelor's+degree+in+Computer+Science)](https://git.io/typing-svg)
 
 ### :infinity: "Mathematics is the language with which God has written the universe" - Galileu Galilei
 
 - Passionate about Computer Graphics and Computer Science in general
 
-### :hammer_and_wrench: Main Languages and Tools:
+### :hammer_and_wrench: Main Skills:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="50" height="50"/>&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=cpp,unity,svelte,ts,tailwind,py,swift,firebase,git)](https://skillicons.dev)
+  
 </div>
 
-### :fire: My Stats:
+---
+
 <div>
   <a href="https://github.com/TheJoseph-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoseph-Dev&layout=compact&langs_count=16&theme=tokyonight&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoseph-Dev&layout=donut&langs_count=6&show_icons=true&count_private=true&hide_border=true&title_color=4CE6FF&icon_color=4CE6FF&text_color=E0E0dE&bg_color=0D1117"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheJoseph-Dev&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![View Count](https://komarev.com/ghpvc/?username=TheJoseph-Dev&color=blue)
 
 ### About me:
 <div>
