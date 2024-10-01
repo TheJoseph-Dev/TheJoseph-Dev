@@ -1,10 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=307bfc&height=120&section=header"/>
+
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=31&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=64&lines=Hello+There!;i'm+Jos%C3%A9+Vitor;On+the+way+to+a+Bachelor's+degree+in+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=31&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=64&lines=Hello+There!;i'm+Jos%C3%A9+Vitor;On+the+way+to+a+Bachelor's+degree+in+Computer+Science)](https://git.io/typing-svg)
 
 ### :infinity: "Mathematics is the language with which God has written the universe" - Galileu Galilei
 
 - Passionate about Computer Graphics and Computer Science in general
+
+<br>
+
+<img width="100%" src="./.github/bLine.png"/>
 
 <br>
 
@@ -29,7 +35,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,kali" />
 </div>
 
----
+<br>
+
+<img width="100%" src="./.github/bLine.png"/>
+
+<br>
 
 <div>
   <a href="https://github.com/TheJoseph-Dev">
