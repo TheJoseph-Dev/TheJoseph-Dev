@@ -6,7 +6,7 @@
 
 ### :infinity: "Mathematics is the language with which God has written the universe" - Galileu Galilei
 
-- Passionate about Computer Graphics and Computer Science in general
+- Passionate about Computer Science in general
 
 <br>
 
@@ -29,7 +29,6 @@
   - Data Structures and Algorithms
   - Competitive Programming
   - Networks and Protocols
-  - Linux
 
 <div style="margin-left: 1rem;">
   <img src="https://skillicons.dev/icons?i=cpp,kali" />
@@ -58,7 +57,9 @@
 <div>
   <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-vm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-jv.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-493AF4?style=for-the-badge&logoColor=white" target="_blank"></a>
-  <a href="https://judge.beecrowd.com/en/profile/953737" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-8A2BE2?style=for-the-badge&logoColor=white">
+  <a href="https://codeforces.com/profile/JosephCoder" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1491EE?style=for-the-badge&logoColor=white"></a>
+  <a href="https://judge.beecrowd.com/en/profile/953737" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-8A2BE2?style=for-the-badge&logoColor=white"></a>
+  <a href="https://app.hackthebox.com/users/2390726" target="_blank"><img src="https://img.shields.io/badge/-Hack The Box-80EC0B?style=for-the-badge&logoColor=white"></a>
 </div>
 
 
