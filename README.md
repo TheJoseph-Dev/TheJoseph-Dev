@@ -40,10 +40,12 @@
 
 <br>
 
+<!--
 <div>
   <a href="https://github.com/TheJoseph-Dev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoseph-Dev&layout=donut&langs_count=6&show_icons=true&count_private=true&hide_border=true&title_color=4CE6FF&icon_color=4CE6FF&text_color=E0E0dE&bg_color=0D1117"/>
 </div>
+-->
 
 <br>
 
