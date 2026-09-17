@@ -12,7 +12,7 @@
 
   <samp>
       <br>
-      <b>< Passionate Computer Scientist /></b>
+      <b>< Computer Scientist /></b>
   </samp>
 </div>
 
@@ -130,8 +130,6 @@
 
 <br>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheJoseph-Dev&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![View Count](https://komarev.com/ghpvc/?username=TheJoseph-Dev&color=blue)
 
