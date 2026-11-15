@@ -58,7 +58,7 @@
 <table align="center">
 
   <tr>
-    <td align="center" width="110"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" /> <br> C++ </td>
+    <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /> <br> C++ </td>
     <td align="center" width="110"> <img src="https://skillicons.dev/icons?i=cmake" width="55" height="55" /> <br> CMake </td>
     <td align="center" width="110"> <img src="https://miro.medium.com/v2/1*7hc2-p7smr7dQZPAg1KDuQ.png" width="55" height="55" /> <br> Vulkan </td>
     <td align="center" width="110"> <img src="https://www.opengl.org/sdk/inc/img/opengl_logo.png" width="75" height="45" /> <br> OpenGL </td>
